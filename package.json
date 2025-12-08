@@ -1,0 +1,23 @@
+{
+  "name": "devcardx",
+  "version": "1.0.0",
+  "description": "A customizable developer profile popup card for React with Tailwind support.",
+  "main": "index.js",
+  "module": "index.js",
+  "type": "module",
+  "keywords": [
+    "react",
+    "developer-card",
+    "profile-card",
+    "react-component",
+    "tailwindcss",
+    "modal",
+    "devcardx"
+  ],
+  "author": "Simha",
+  "license": "MIT",
+  "peerDependencies": {
+    "react": ">=17",
+    "react-dom": ">=17"
+  }
+}
