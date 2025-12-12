@@ -252,8 +252,7 @@ Modify it freely for your own projects.
 ## ❤️ Author
 
 **Simha**
-Full Stack MERN Developer
-GitHub: [https://github.com/simha10](https://github.com/simha10)
-LinkedIn: [https://www.linkedin.com/in/simhachalam-mandapudi-93b75b284/](https://www.linkedin.com/in/simhachalam-mandapudi-93b75b284/)
+* Full Stack MERN Developer
+* [GitHub](https://github.com/simha10) | [LinkedIn](https://www.linkedin.com/in/simhachalam-mandapudi-93b75b284/)
 
 ---
