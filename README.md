@@ -1,5 +1,3 @@
-# 📌 **README.md — DevCardX**
-
 # DevCardX
 
 A lightweight, zero-dependency **developer profile popup widget** that can be embedded into **any website or MERN project** with a single script tag.
